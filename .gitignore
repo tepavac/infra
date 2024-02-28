@@ -1,0 +1,23 @@
+# OS General
+Thumbs.db
+.DS_Store
+
+# Develop tools
+.vscode/
+.idea/
+*.swp
+*.iml
+
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
